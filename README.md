@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AmritRijal-cpp
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me by my twitter account @amritrijal14
