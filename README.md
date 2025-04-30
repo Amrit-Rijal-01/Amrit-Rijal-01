@@ -1,10 +1,10 @@
 # 💫 About Me:
 # Hi there, I'm Amrit Rijal! 👋  
 
-I'm a passionate web developer with a keen interest in building dynamic and interactive web applications. I love learning new technologies and continuously improving my skills.  
+I'm a web developer who enjoys making websites. I like learning new things and always try to get better at what I do.
 
-- 🚀 **Currently Exploring:** Enhancing my Angular skills.  
-- 💡 **Skills:** Intermediate in CSS & JavaScript | Beginner in Laravel & ReactJS | Diving deeper into Angular.  
+- 🚀 **Currently Exploring:** Enhancing my Laravel skills.  
+- 💡 **Skills:** Intermediate in CSS & JavaScript | Beginner in Laravel & ReactJS.  
 - 💬 **Let's Connect:** Always open to discussions and collaborations on web development.  
 - 📫 **Reach Me At:** [rijalamrit720@gmail.com](mailto:rijalamrit720@gmail.com)  
 
